@@ -1,2 +1,3 @@
-# RibbonDB-Flare-analysis
-This repository contain my jupyter notebook for plotting plot of flare peak X-ray flux vs. reconnection flux using RibbonDB . This repository also contain my coding expeirence too.
+# My Coding Experiences:
+My coding experience is primarily be done in python, which is developed through my previous experiences in solar physics project. I'm comfortable working with FITs data, SDO Level 1 data, GOES XRS data and libraries such as Sunpy, astropy and matplotlib. I understand the underlying physics and methodology behind each step, although to be honest, its more like working knowledge rather than profession coding level and would rate myself moderate to intermediate level. I am upskilling myself parallely as i am learning more about sun and the eruptive events like solar flare, so that i could contribute meaningfully in solar physics.
+
